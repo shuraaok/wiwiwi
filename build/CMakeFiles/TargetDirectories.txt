@@ -1,0 +1,3 @@
+D:/github/wiwiwi/build/CMakeFiles/lecture1.dir
+D:/github/wiwiwi/build/CMakeFiles/ALL_BUILD.dir
+D:/github/wiwiwi/build/CMakeFiles/ZERO_CHECK.dir
